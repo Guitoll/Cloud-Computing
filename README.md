@@ -8,7 +8,7 @@ Its a repository from Cloud Computing Course from University of Duke
 * [Create an AWS Cloud Development Environment](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#create-an-aws-cloud-development-environment)
   * [Comunicación con AWS](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#comunicaci%C3%B3n-con-aws-comunicaci%C3%B3n-encriptada-bidireccional-con-github)
   * [Creación de ambiente y archivos base](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#creaci%C3%B3n-de-ambiente-y-archivos-base)
-  * [Migrar archivos hacia Github](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#migrar-archivos-hacia-github)
+  * [Migrar archivos hacia Github](https://github.com/Guitoll/Cloud-Computing/blob/main/README.md#migrar-archivos-hacia-github)
   
 # Create an AWS Cloud Development Environment
 
