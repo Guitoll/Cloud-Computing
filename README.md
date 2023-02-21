@@ -8,6 +8,7 @@ Its a repository from Cloud Computing Course from University of Duke
 * [Create an AWS Cloud Development Environment](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#create-an-aws-cloud-development-environment)
   * [Comunicación con AWS](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#comunicaci%C3%B3n-con-aws-comunicaci%C3%B3n-encriptada-bidireccional-con-github)
   * [Creación de ambiente y archivos base](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#creaci%C3%B3n-de-ambiente-y-archivos-base)
+  * [Migrar archivos hacia Github](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#migrar-archivos-hacia-github)
   
 # Create an AWS Cloud Development Environment
 
@@ -52,4 +53,23 @@ touch Makefile
 touch Programa_python.py
 touch test_programa.py
 touch requirements.txt
+```
+## Migrar archivos hacia Github
+Para migrar archivos, se debe correr las líneas de código
+* Se deben agregar todos los archivos de la siguiente manera:
+```
+git add *
+```
+* Luego, se deben guardar los cambios como:
+
+```
+git commit -m "adding initial structure"
+```
+* Por último, correr por separado las siguientes líneas y ejecutal `Ctrl + X`
+
+```
+git config --global user.name "Diego Rodriguez"
+git config --global user.email diegorodriguez@ug.uchile
+git commit --amend --reset-author
+git push
 ```
