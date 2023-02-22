@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/Guitoll/Cloud-Computing/actions/workflows/main.yml/badge.svg)](https://github.com/Guitoll/Cloud-Computing/actions/workflows/main.yml)
+
 # Cloud-Computing
 Its a repository from Cloud Computing Course from University of Duke
 
