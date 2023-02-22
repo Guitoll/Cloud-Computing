@@ -75,3 +75,11 @@ git config --global user.email diegorodriguez@ug.uchile
 git commit --amend --reset-author
 git push
 ```
+
+## Acciones con Github
+
+* En primer lugar, se pueden realizar ciertas acciones que apoyarán la comunicación de Github con los servicios de la nube, además de reportar que acciones se han realizado en el repositorio. Para esto, se ingresa a [Acciones](https://github.com/Guitoll/Cloud-Computing/actions)
+
+* Luego, se debe setear un workflow `set up a workflow yourself` y se crea un archivo [main.yml](https://github.com/Guitoll/Cloud-Computing/blob/main/.github/workflows/main.yml).
+
+* En la pestaña build, se podrán observar todos los cambios realizados en el repositorio y el estado del código. Como feature adicional, se puede crear un status del código en `Create status badge`, y copiar el codigo en el archivo readme principal. 
