@@ -11,7 +11,9 @@ Its a repository from Cloud Computing Course from University of Duke
   * [Comunicación con AWS](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#comunicaci%C3%B3n-con-aws-comunicaci%C3%B3n-encriptada-bidireccional-con-github)
   * [Creación de ambiente y archivos base](https://github.com/Guitoll/Cloud-Computing/edit/main/README.md#creaci%C3%B3n-de-ambiente-y-archivos-base)
   * [Migrar archivos hacia Github](https://github.com/Guitoll/Cloud-Computing/blob/main/README.md#migrar-archivos-hacia-github)
-  
+ 
+ *[Create an Azure Cloud Development Environment]()
+ 
 # Create an AWS Cloud Development Environment
 
 ## Comunicación con AWS (Comunicación encriptada bidireccional con Github)
@@ -83,3 +85,7 @@ git push
 * Luego, se debe setear un workflow `set up a workflow yourself` y se crea un archivo [main.yml](https://github.com/Guitoll/Cloud-Computing/blob/main/.github/workflows/main.yml).
 
 * En la pestaña build, se podrán observar todos los cambios realizados en el repositorio y el estado del código. Como feature adicional, se puede crear un status del código en `Create status badge`, y copiar el codigo en el archivo readme principal. 
+
+# Create an Azure Cloud Development Environment
+* Entrar a el [Portal de Microsoft Azure](https://portal.azure.com/?quickstart=true#home) y abrir Cloud shell tipo Bash. 
+* Seguir los mismos pasos anteriores
